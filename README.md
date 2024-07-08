@@ -1,9 +1,7 @@
-"Created interactive Power BI reports to monitor and evaluate hospital emergency preparedness metrics, improving data-driven decision-making processes."
+Developed a comprehensive Power BI dashboard for hospital emergency room visits, providing real-time insights into patient demographics, visit patterns, and departmental referrals.
 
-"Designed and optimized data models in Power BI to integrate multiple sources of hospital emergency preparedness data, providing comprehensive insights and trend analysis."
+Analyzed patient visit data to distinguish between administrative (50.04%) and non-administrative appointments (49.96%), enhancing resource allocation and operational efficiency.
 
-"Collaborated with healthcare professionals to gather requirements and develop tailored Power BI dashboards, enhancing the hospital's ability to respond to emergencies efficiently."
+Visualized patient visit trends by various dimensions, such as week type (weekday: 6.6K, weekend: 2.6K) and age group (adults: 7.1K), supporting data-driven decision-making.
 
-"Automated data extraction and transformation processes using Power Query in Power BI, reducing manual data handling and ensuring timely updates for emergency preparedness analysis."
-
-"Conducted user training sessions on Power BI functionalities, enabling hospital staff to navigate and interpret emergency preparedness dashboards independently."
+Monitored key performance indicators, including average patient satisfaction (5.47) and average wait time (35.26 minutes), to improve patient care and service delivery.
